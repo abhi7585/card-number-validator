@@ -58,11 +58,11 @@ The Luhn algorithm, also known as the "modulus 10" or "mod 10" algorithm, is a s
 
 - **Correct Card Number:**
 
-  ![Correct Output](images/correct_output.png)
+  ![Correct Output](images/output_correct.png)
 
 - **Incorrect Card Number:**
 
-  ![Incorrect Output](images/incorrect_output.png)
+  ![Incorrect Output](images/output_incorrect.png)
 
 
 ## Technologies Used
